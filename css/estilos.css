@@ -17,12 +17,15 @@ margin: 0;
 padding: 1em;
 font-size: 40px;
 }
- #cabecera #tagline
- {
-     padding: 0 0 0 1em;
-     font-weight: normal;
-     font-size: 1em;
- }
+
+#cabecera #tangline
+{color:white;
+    padding: 1em;
+    font-weight: normal;
+
+text-decoration: underline;
+
+}
 
 #container
 {
