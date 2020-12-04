@@ -1,5 +1,5 @@
 body
-{   background: dimgrey;
+{  background-image: url(img/fondo.png);
      color: black;
      text-align: center;
      font-family: Arial;
@@ -9,13 +9,16 @@ body
  }
  #cabecera
  {
-background: #33f;
+background-color: blue;
 box-shadow: 20px 30px 20px 0px rgba(0,0,0,0.5);
-color: white;
+color:white;
 font-weight: bold;
 margin: 0;
 padding: 1em;
 font-size: 40px;
+
+
+
 }
 #cabecera #logo{
     width: 35px;
@@ -40,7 +43,7 @@ text-decoration: underline;
     margin: 0 auto;
 }
 #container h1
-{
+{font-family: italic;
    font-size: 50px;
    color: sienna;
    text-decoration: underline;
@@ -48,6 +51,21 @@ text-decoration: underline;
 #post
 {
     padding: 1em;
+<<<<<<< HEAD
     color: #33f;
     background: white;
+=======
+    color:sienna;
+}
+#footer
+{
+    text-align: center;
+    background-color: teal;
+    box-shadow: 20px 30px 20px 0px rgba(0,0,0,0.5);
+color: white;
+font-weight: bold;
+margin: 0;
+padding: .1em;
+font-size: 25px;
+>>>>>>> footer
 }
