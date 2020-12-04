@@ -1,5 +1,5 @@
 body
-{  background-image: url(https://i1.wp.com/www.davidmerinas.com/wp-content/uploads/2018/11/fondo-cielo.jpg?ssl=1);
+{  background-image: url(img/fondo.png);
      color: black;
      text-align: center;
      font-family: Arial;
@@ -9,13 +9,16 @@ body
  }
  #cabecera
  {
-background: #33f;
+background-color: blue;
 box-shadow: 20px 30px 20px 0px rgba(0,0,0,0.5);
-color: white;
+color:white;
 font-weight: bold;
 margin: 0;
 padding: 1em;
 font-size: 40px;
+
+
+
 }
 
 #cabecera #tangline
@@ -44,7 +47,7 @@ text-decoration: underline;
 #post
 {
     padding: 1em;
-    color:wheat;
+    color:sienna;
 }
 #footer
 {
