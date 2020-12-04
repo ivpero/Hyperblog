@@ -46,3 +46,14 @@ text-decoration: underline;
     padding: 1em;
     color:wheat;
 }
+#footer
+{
+    text-align: center;
+    background-color: teal;
+    box-shadow: 20px 30px 20px 0px rgba(0,0,0,0.5);
+color: white;
+font-weight: bold;
+margin: 0;
+padding: .1em;
+font-size: 25px;
+}
