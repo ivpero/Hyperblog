@@ -1,5 +1,5 @@
 body
-{   
+{  background-image: url(https://i1.wp.com/www.davidmerinas.com/wp-content/uploads/2018/11/fondo-cielo.jpg?ssl=1);
      color: black;
      text-align: center;
      font-family: Arial;
@@ -36,7 +36,7 @@ text-decoration: underline;
     margin: 0 auto;
 }
 #container h1
-{
+{font-family: italic;
    font-size: 50px;
    color: sienna;
    text-decoration: underline;
@@ -44,5 +44,5 @@ text-decoration: underline;
 #post
 {
     padding: 1em;
-    color: #33f;
+    color:wheat;
 }
