@@ -1,5 +1,5 @@
 body
-{   
+{   background: dimgrey;
      color: black;
      text-align: center;
      font-family: Arial;
@@ -16,6 +16,10 @@ font-weight: bold;
 margin: 0;
 padding: 1em;
 font-size: 40px;
+}
+#cabecera #logo{
+    width: 35px;
+    vertical-align: middle;
 }
 
 #cabecera #tangline
@@ -45,4 +49,5 @@ text-decoration: underline;
 {
     padding: 1em;
     color: #33f;
+    background: white;
 }
